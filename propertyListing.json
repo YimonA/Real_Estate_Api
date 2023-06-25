@@ -32,12 +32,11 @@
       "description": "Tucked away in a peaceful spot, it boasts its own private courtyard garden. The apartment is situated close to local shops and bus links to Oxford City Centre, London, and the airports. Additionally, it is adjacent to the beautiful South Park. 12 month tenancy or longer. Reservation Deposit: £346 Damages Deposit: £1730 Entering through the front gate, you'll find a pathway leading to the front door, which opens into an open plan reception room. The room features wood flooring, ceiling spotlights, and patio doors that open out to the courtyard garden. The modern kitchen, fitted along the back wall, is equipped with a fridge freezer, gas hob, electric oven, and slimline dishwasher.",
       "permalink": "https://momento360.com/e/u/c7d2750abd5349f590a020891c0b3d3c?utm_campaign=embed&utm_source=other&heading=-2.74&pitch=-0.99&field-of-view=75&size=medium&display-plan=true",
       "bullet": ["Balcony", "Double glazing", "Waterfront", "Wood floors"],
-      "roomDimensions": {
         "livingRoom": "11x7",
         "bedRoom": "12x10",
         "diningRoom": "9x10",
         "kitchen": "7x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -75,12 +74,11 @@
         "Private courtyard garden",
         "Adjacent to the beautiful South Park"
       ],
-      "roomDimensions": {
         "livingRoom": "9x11",
         "bedRoom": "12x8",
         "diningRoom": "9x10",
         "kitchen": "7x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -121,12 +119,11 @@
         "Walking distance to Summertown shops",
         "Council tax band D"
       ],
-      "roomDimensions": {
         "livingRoom": "7x11",
         "bedRoom": "12x10",
         "diningRoom": "9x10",
         "kitchen": "9x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -169,12 +166,11 @@
         "Available August 2022",
         "Parking for Two Cars"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "12x80",
         "diningRoom": "9x10",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -213,12 +209,11 @@
         "Available September 2023",
         "Available For Six Months"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "12x10",
         "diningRoom": "9x5",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -256,12 +251,11 @@
         "Private Garden",
         "Furnished"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "15x10",
         "diningRoom": "9x10",
         "kitchen": "10x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -298,12 +292,11 @@
         "Kitchen",
         "Two Double Bedrooms"
       ],
-      "roomDimensions": {
         "livingRoom": "7x11",
         "bedRoom": "12x10",
         "diningRoom": "7x7",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -342,12 +335,11 @@
         "Garage",
         "Parking For Two Cars"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "12x10",
         "diningRoom": "9x10",
         "kitchen": "15x14"
-      }
+      
     },
     {
       "type": "rent",
@@ -387,12 +379,11 @@
         "Bathroom",
         "Kitchen"
       ],
-      "roomDimensions": {
         "livingRoom": "11x9",
         "bedRoom": "12x10",
         "diningRoom": "9x10",
         "kitchen": "9x10"
-      }
+      
     },
     {
       "type": "rent",
@@ -432,12 +423,11 @@
         "Council tax band E",
         "Communal garden"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "12x14",
         "diningRoom": "9x10",
         "kitchen": "13x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -473,12 +463,11 @@
         "Being redecorated throughout",
         "Secure allocated Parking Space"
       ],
-      "roomDimensions": {
         "livingRoom": "11x11",
         "bedRoom": "12x10",
         "diningRoom": "9x10",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -515,12 +504,11 @@
         "Landscaped grounds",
         "Close to train and coach stations"
       ],
-      "roomDimensions": {
         "livingRoom": "8x8",
         "bedRoom": "12x10",
         "diningRoom": "10x10",
         "kitchen": "10x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -560,12 +548,11 @@
         "Council tax band: B",
         "Video Viewing Available Upon Request"
       ],
-      "roomDimensions": {
         "livingRoom": "8x8",
         "bedRoom": "12x15",
         "diningRoom": "12x10",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -601,12 +588,11 @@
         "In a popluar and quiet location",
         "Close to River Thames"
       ],
-      "roomDimensions": {
         "livingRoom": "10x8",
         "bedRoom": "12x10",
         "diningRoom": "10x10",
         "kitchen": "7x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -641,12 +627,11 @@
         "Private gardens",
         "A walk away from Summertown"
       ],
-      "roomDimensions": {
         "livingRoom": "18x8",
         "bedRoom": "12x20",
         "diningRoom": "10x10",
         "kitchen": "15x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -687,12 +672,11 @@
         "Available August 2023",
         "4 Bedrooms"
       ],
-      "roomDimensions": {
         "livingRoom": "8x8",
         "bedRoom": "15x10",
         "diningRoom": "10x10",
         "kitchen": "11x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -734,12 +718,11 @@
         "Unfurnished",
         "Close to amenities and transport links"
       ],
-      "roomDimensions": {
         "livingRoom": "8x8",
         "bedRoom": "12x10",
         "diningRoom": "13x10",
         "kitchen": "15x16"
-      }
+      
     },
     {
       "type": "sale",
@@ -778,12 +761,11 @@
         "Private rear garden",
         "Ideally located for access to A34 or Oxford City"
       ],
-      "roomDimensions": {
         "livingRoom": "8x10",
         "bedRoom": "12x10",
         "diningRoom": "11x10",
         "kitchen": "12x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -824,12 +806,11 @@
         "Furnished rental - Ideal for students or professionals",
         "Ideally located in the heart of the city centre close to Uni + station"
       ],
-      "roomDimensions": {
         "livingRoom": "9x8",
         "bedRoom": "10x10",
         "diningRoom": "12x10",
         "kitchen": "10x10"
-      }
+      
     },
     {
       "type": "sale",
@@ -867,12 +848,11 @@
         "Laundry Room",
         "Council Tax Band E"
       ],
-      "roomDimensions": {
         "livingRoom": "8x8",
         "bedRoom": "12x10",
         "diningRoom": "10x10",
         "kitchen": "15x10"
-      }
+      
     }
   ]
 }
